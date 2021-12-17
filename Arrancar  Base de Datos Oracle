@@ -7,7 +7,7 @@ Abrir Base de Datos : -Se abren todos los ficheros asociados a los tablespaces y
                       -Al ser necesaria una recuperación, se produce en este momento.
 Modos de arranque: STARTUP(Puesta en marcha-Levantado);Este es el valor por defecto para arrancar, montar y abrir una B.D.
                    STARTUP MOUNT:S e arranca la B.D montada, normalmente se usa para tareas de mantenimiento.
-                   STARUP RESTRICT: En modo restringido sólo usuario que tengan privilegios de CREATE SESSION y RESTRICTED SESSION.
+                   STARTUP RESTRICT: En modo restringido sólo usuario que tengan privilegios de CREATE SESSION y RESTRICTED SESSION.
                    
                       
                       
