@@ -1,0 +1,9 @@
+Arrancar Instancia              *Modo Nomount:en esta parte se generan los procesos de Background.
+Montar Base de Datos            *Modo Mount:se produce la conexión a los archivos de control.
+                                -cambiar el modo de archivado de la B.D
+                                -renombrado de archivos de Redo Log 
+                                -crear, modificar o suprimir Redo Log
+Abrir Base de Datos : -Se abren todos los ficheros asociados a los tablespaces y a los Redo Logs.La B.D está disponible para todos los usuarios.
+                      -Al ser necesaria una recuperación, se produce en este momento.
+                      
+                      
